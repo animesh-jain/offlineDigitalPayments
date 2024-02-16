@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class OfflineDigitalPaymentsApplication {
 
 	public static void main(String[] args) {
+		Sustem.out.println("This aint working")
 		SpringApplication.run(OfflineDigitalPaymentsApplication.class, args);
 	}
 
